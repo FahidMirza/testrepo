@@ -44,6 +44,17 @@ fun redundantFunction() {
     println("The sum is ${x + y}")
 }
 
+fun PlusFunction3() {
+    val x = 10
+    val y = 20
+     z = x + y 
+
+    println("Z is $z")
+
+// wrote this in 2nd PR
+}
+
+
 
 @Preview(showBackground = true)
 @Composable
