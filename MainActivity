@@ -42,7 +42,19 @@ fun redundantFunction() {
     val x = 10
     val y = 20
     println("The sum is ${x + y}")
+
 }
+
+fun redundantFunction2() {
+    val x = 10
+    val y = 20
+    println("The sum is ${x + y}")
+
+// wrote this in extra branch
+
+
+}
+
 
 
 @Preview(showBackground = true)
